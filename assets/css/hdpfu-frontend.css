@@ -1,0 +1,19 @@
+.hdpfu-upload-field {
+    margin: 1em 0;
+}
+
+.hdpfu-upload-field label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 0.35em;
+}
+
+.hdpfu-required {
+    color: #b32d2e;
+}
+
+.hdpfu-hint {
+    margin-top: 0.35em;
+    font-size: 0.85em;
+    opacity: 0.75;
+}
