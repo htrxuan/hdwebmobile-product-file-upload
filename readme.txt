@@ -35,6 +35,9 @@ A serious class of bug in product file-upload tools is treating a blank "accepte
 * Only JPG, PNG, GIF, WEBP, and PDF are ever accepted -- there is no way to add other file types, by design
 * Simple products only in this version
 
+= Enjoying this plugin? =
+If it helps your site, please consider [leaving an honest review on WordPress.org](https://wordpress.org/support/plugin/hdwebmobile-product-file-upload/reviews/#new-post) -- it helps other WordPress users find it. Found a problem or have an idea? Please [open a support topic](https://wordpress.org/support/plugin/hdwebmobile-product-file-upload/) first so it can be fixed.
+
 == Installation ==
 
 1. Upload the plugin files to the `/wp-content/plugins/hdwebmobile-product-file-upload` directory, or install the plugin through the WordPress plugins screen directly.
